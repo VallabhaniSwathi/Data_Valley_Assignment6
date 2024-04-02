@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DivisibilityChecker {
+public class Divisibility {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
